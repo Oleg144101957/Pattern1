@@ -1,0 +1,5 @@
+interface QuackBehavior {
+
+    fun quack()
+
+}
